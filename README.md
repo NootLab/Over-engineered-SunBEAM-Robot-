@@ -1,12 +1,15 @@
 # SunBEAM-Robot-2
-My A-level Fine Art project (04/2021) where a BEAM robot (my remixed version of https://makezine.com/projects/sunbeam-seeker-bot/) follows a contstant IR source to mimic the works of Sun Yuan &amp; Peng Yu "Can't Help Myself" (https://www.guggenheim.org/artwork/34812) in a new interpretation. 
-
-Few years down the line (06/2024) I decided to create a better version using skills I had been learning in my engineering degree.
-
+my remixed version of https://makezine.com/projects/sunbeam-seeker-bot/ .
+The main logic of the Sunbeam Seeker Bot is to detect the direction with the most infrared light (sunlight) and move toward it. 
 ![Cover IMG](https://github.com/user-attachments/assets/6e6c174b-a5ef-41d8-8178-52fbd0dbf32b)
-Key Upgrades in V2:  
+Key Upgrades in this version:
+
+- custom built pcb
 - Recycled LiPo batteries
 - larger dc motors
-- custom pcb 
 - rear jst hub
-- Type-C charging         
+- Type-C charging
+
+This PDF documents the design history of my efforts to create a robot capable of following a constant infrared (IR) source. The project was inspired by Sun Yuan and Peng Yu's artwork "Can't Help Myself" (https://www.guggenheim.org/artwork/34812), reinterpreted through a new lens.
+
+I originally built a version of this robot at the age of 16. It was my first-ever robot and the project that inspired me to pursue engineering over architecture. After completing my first year of university in 2023, I revisited the project, applying new skills I had gained.
